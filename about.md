@@ -3,11 +3,11 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+I'm a FP&A Analyst at Inter Seguros, the insurance branch from Banco Inter, the biggest brazilian digital bank.  
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+My main interest lies in using data and quantitative methods to make better business decisions, specially in the finance field.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+## Education
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+- Specialization in Statistics @ [UFMG](https://ufmg.br/international-visitors) (2020 - 2021)
+- B.A. in Economics @ [UnB](https://international.unb.br/) (2014 - 2018)
