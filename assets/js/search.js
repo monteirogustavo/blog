@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://monteirogustavo.github.io/about/",
     "title": "About Me",
-    "body": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
+    "body": "I’m a FP&amp;A Analyst at Inter Seguros, the insurance branch from Banco Inter, the biggest brazilian digital bank. My main interest lies in using data and quantitative methods to make better business decisions, specially in the finance field. Education:  Specialization in Statistics @ UFMG (2020 - 2021) B. A. in Economics @ UnB (2014 - 2018)"
     }, {
     "id": 2,
     "url": "https://monteirogustavo.github.io/categories/",
