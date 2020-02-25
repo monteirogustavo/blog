@@ -6,4 +6,9 @@ layout: home
 search: exclude
 ---
 
-I built this site to share my learning path in quantitative finance and related subjects in data science. Hope you enjoy!
+I built this site to share my learning path in quantitative finance and related subjects in data science. 
+
+In a near future I'll post some tutorials on things I've learned. Hope you enjoy!
+
+
+# Posts
